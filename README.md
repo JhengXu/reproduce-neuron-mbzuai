@@ -11,7 +11,7 @@ This implementation is modified from the original work:
 ### Prerequisites
 - Python 3.10.8
 - pip package manager
-- Hugging Face account ([sign up](https://huggingface.co/join))
+- Hugging Face account
 
 ### Installation
 
